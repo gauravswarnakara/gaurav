@@ -1,2 +1,2 @@
 # gaurav
-this is ademo for git &amp; github class
+this is ademo for git &amp; github class.
